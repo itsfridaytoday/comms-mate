@@ -17,7 +17,7 @@ import os
 
 # Configuration
 PORT = 3456
-ANTHROPIC_API_KEY = ""YOUR_ANTHROPIC_API_KEY""
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 ANTHROPIC_API_URL = "https://api.anthropic.com/v1/messages"
 
 # Load brand contexts
