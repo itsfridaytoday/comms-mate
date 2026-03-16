@@ -1,0 +1,210 @@
+{
+  "cash_app": {
+    "name": "Cash App",
+    "keywords": ["cash app", "cashapp", "cashtag", "cash card", "borrow", "boost", "bitcoin", "moneybot", "p2p", "peer-to-peer", "direct deposit", "teens", "u13"],
+    "voice": {
+      "tone": "Confident, direct, culturally fluent. Speaks like a friend who knows money.",
+      "personality": "Bold, accessible, real. Not corporate or preachy.",
+      "audience": "Everyday people, younger demographics, underbanked, bitcoin-curious"
+    },
+    "writing_rules": [
+      "Lead with what customers can DO, not what the product IS",
+      "Use 'you' and 'your' - speak directly to the reader",
+      "Short sentences. Punchy. Get to the point.",
+      "Bitcoin is money to use, not just an asset to hold",
+      "Avoid financial jargon - use everyday language",
+      "Numbers are specific (e.g., '97% repayment rate' not 'high repayment')",
+      "Features serve real life moments - connect to daily use cases"
+    ],
+    "phrases_to_use": [
+      "the money app",
+      "built for",
+      "simple",
+      "fast",
+      "no hidden fees",
+      "living on bitcoin",
+      "your money, your way"
+    ],
+    "phrases_to_avoid": [
+      "financial services platform",
+      "leverage",
+      "optimize",
+      "empower",
+      "revolutionary",
+      "disrupting"
+    ],
+    "example_headlines": [
+      "Cash App is built for living on bitcoin",
+      "Cash App makes living on bitcoin simple",
+      "Introducing Cash App Releases: See What's New",
+      "Cash App Brings Piece of The Moment Universe to Life"
+    ],
+    "example_copy": [
+      "We're building the tools that make it easier to live on bitcoin every day.",
+      "Bitcoin works when it moves easily, when people can rely on it day to day.",
+      "Keep the feedback coming. It's how we build better for you.",
+      "The way people earn and manage money has fundamentally shifted, and traditional financial institutions haven't kept up."
+    ]
+  },
+  "square": {
+    "name": "Square",
+    "keywords": ["square", "seller", "merchant", "pos", "point of sale", "register", "terminal", "restaurant", "retail", "appointments", "invoices", "payroll"],
+    "voice": {
+      "tone": "Warm, professional, seller-focused. Understands the hustle.",
+      "personality": "Supportive partner, not a vendor. Celebrates local business.",
+      "audience": "Small business owners, entrepreneurs, local sellers, franchises"
+    },
+    "writing_rules": [
+      "Sellers are heroes - celebrate their success",
+      "Focus on outcomes: more sales, saved time, happy customers",
+      "Use 'sellers' not 'merchants' or 'SMBs'",
+      "Local businesses = neighborhood favorites",
+      "Technology enables, it doesn't replace the human touch",
+      "Specific use cases > abstract benefits"
+    ],
+    "phrases_to_use": [
+      "neighborhood favorites",
+      "turn transactions into connections",
+      "run and grow",
+      "sellers succeed when",
+      "tools to thrive",
+      "participate in their communities"
+    ],
+    "phrases_to_avoid": [
+      "SMB",
+      "merchant solutions",
+      "enterprise-grade",
+      "best-in-class",
+      "end-to-end solution",
+      "leverage"
+    ],
+    "example_headlines": [
+      "Square helps businesses turn transactions into connections",
+      "Second Generation Square Register Delivers More Speed, Power, and Reliability",
+      "7 Leaves Cafe Plans Expansion, Chooses Square as its Commerce Technology Partner"
+    ],
+    "example_copy": [
+      "Square helps businesses turn transactions into connections and businesses into neighborhood favorites.",
+      "Whether independently run or a global chain, Square understands that sellers succeed when they have the freedom to focus on the experiences that keep customers coming back.",
+      "San Francisco's economy is powered by local businesses, and this weekend brings an incredible opportunity to put them front and center."
+    ]
+  },
+  "block": {
+    "name": "Block",
+    "keywords": ["block", "xyz", "corporate", "earnings", "investor", "lending", "credit", "climate", "cdp", "office", "distributed"],
+    "voice": {
+      "tone": "Confident, forward-looking, purposeful. Speaks to vision and impact.",
+      "personality": "Builder mindset. Ambitious but grounded in results.",
+      "audience": "Investors, press, policymakers, talent, industry"
+    },
+    "writing_rules": [
+      "Lead with impact and scale",
+      "Connect products to broader purpose: economic empowerment",
+      "Data-driven claims with specific numbers",
+      "Ecosystem thinking - show how brands work together",
+      "Honest about challenges, confident about direction",
+      "Global perspective, inclusive language"
+    ],
+    "phrases_to_use": [
+      "increase access to the economy",
+      "economic empowerment",
+      "financial system that is open to everyone",
+      "builds technology to",
+      "unlocks different aspects of the economy"
+    ],
+    "phrases_to_avoid": [
+      "synergy",
+      "best-in-class",
+      "world-class",
+      "cutting-edge",
+      "paradigm shift",
+      "move the needle"
+    ],
+    "example_headlines": [
+      "Block, Inc. Surpasses $200 Billion in Credit Provided to Customers",
+      "Block Achieves 'B' Grade in 2025 CDP Climate Assessment",
+      "Block's New Phoenix Office Will Serve As A Hub for Sellers and Local Teams"
+    ],
+    "example_copy": [
+      "Block, Inc. builds technology to increase access to the global economy.",
+      "Through this work, Block is proving that with the right technology, inclusive lending and responsible risk management aren't opposing forces.",
+      "Each of our brands unlocks different aspects of the economy for more people."
+    ]
+  },
+  "tidal": {
+    "name": "Tidal",
+    "keywords": ["tidal", "music", "artist", "stream", "album", "track", "playlist", "audio", "hi-fi", "dolby"],
+    "voice": {
+      "tone": "Playful, casual, raw, authentic. Music fan talking to music fans.",
+      "personality": "Unfiltered, genuine, music-obsessed. Not corporate.",
+      "audience": "Music lovers, artists, audiophiles, culture enthusiasts"
+    },
+    "writing_rules": [
+      "Write like you talk - casual, real",
+      "Center on music, always",
+      "Reference lyrics when natural",
+      "Use music terminology authentically",
+      "Skip corporate speak entirely",
+      "Celebrate real moments and genuine reactions",
+      "Feel free to break grammar rules for effect"
+    ],
+    "phrases_to_use": [
+      "hit different",
+      "on repeat",
+      "the keys on this track",
+      "we'll wait",
+      "fr",
+      "tho"
+    ],
+    "phrases_to_avoid": [
+      "We're excited to announce",
+      "Please engage with our content",
+      "Don't forget to stream",
+      "Check out our new feature",
+      "Click here to discover more",
+      "leverage",
+      "optimize"
+    ],
+    "example_copy": [
+      "that bridge hit different fr",
+      "anyone else got this on repeat?",
+      "the keys on this track tho...",
+      "name a better collab. we'll wait.",
+      "friday mood: this album on max volume"
+    ]
+  },
+  "afterpay": {
+    "name": "Afterpay",
+    "keywords": ["afterpay", "bnpl", "buy now pay later", "installments", "pay in 4", "pay over time"],
+    "voice": {
+      "tone": "Friendly, empowering, responsible. Makes spending feel smart.",
+      "personality": "Helpful guide, not pushy. Celebrates smart shopping.",
+      "audience": "Shoppers, younger consumers, budget-conscious buyers"
+    },
+    "writing_rules": [
+      "Focus on flexibility and control",
+      "Responsible spending, not reckless",
+      "Simple explanations of how it works",
+      "Connect to real shopping moments",
+      "Transparency about terms"
+    ],
+    "phrases_to_use": [
+      "pay over time",
+      "interest-free",
+      "in control",
+      "shop smarter",
+      "flexible payments"
+    ],
+    "phrases_to_avoid": [
+      "debt",
+      "credit",
+      "loan",
+      "borrow"
+    ],
+    "example_copy": [
+      "Afterpay is transforming the way customers manage their spending over time.",
+      "Pay in 4 interest-free installments.",
+      "Shop now, pay later - on your terms."
+    ]
+  }
+}
